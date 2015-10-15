@@ -57,7 +57,7 @@
 							</script>
 								<p id="thoughts">Notes upon navigating through site</p>
 							<script>
-								$('#thoughts').addClass('animated bounceInRight');
+								$('#thoughts').addClass('animated bounceInLeft');
 							</script>
 							<ul>
 								<li>		Site is easy to use</li>
@@ -73,7 +73,7 @@
 				<p id="step1""><strong>Exploration of the website</strong><br><i>"User Take on Etsy"</i>
 			</div>
 						<script>
-						$('#furtherSteps').addClass('animated bounceOutLeft');
+						$('#furtherSteps').addClass('animated bounce');
 
 						</script>
 
