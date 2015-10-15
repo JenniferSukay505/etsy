@@ -57,7 +57,7 @@
 							</script>
 								<p id="thoughts">Notes upon navigating through site</p>
 							<script>
-								$('#thoughts').addClass('animated slideInLeft');
+								$('#thoughts').addClass('animated bounceInRight');
 							</script>
 							<ul>
 								<li>		Site is easy to use</li>
