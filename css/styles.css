@@ -1,5 +1,6 @@
 body {
 	color:black;
+	background-color: black;
 }
 main {
 	color:lightgrey;
@@ -12,6 +13,9 @@ h2 {
 h3 {
 	font-size:2em;
 	color:lightsteelblue;
+}
+ol {
+	color:lightgray;
 }
 span {
 	color:blueviolet;
@@ -69,24 +73,12 @@ i {
 }
 #unregisteredUser {
 	background-color: darkslategray;
-	position:absolute;
-	top: 780px;
-	width:973px;
-	left:100px;
 }
 #thoughts {
 	color:lightsteelblue;
-	font-size:2em;
 	background-color:gray;
-	position:absolute;
-	top: 650px;
-	left:100px;
 }
 #furtherSteps {
-	position:absolute;
-	top:560px;
-	width:973px;
-	left:100px;
 	background:palegreen;
 	background:linear-gradient(top,lightgreen,mediumspringgreen);
 	background:-moz-linear-gradient(top,springgreen,lawngreen);
@@ -96,10 +88,6 @@ i {
 #exploreEtsy {
 	background-color:gray;
 	color:black;
-	position:absolute;
-	top:680px;
-	width:973px;
-	left:100px
 
 }
 .lead {
@@ -116,4 +104,3 @@ i {
 #exploreList {
 	background-color:darkgray;
 }
-

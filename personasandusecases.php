@@ -46,8 +46,24 @@
 					<li>add more listings or continue</li>
 					<li>setup direct checkout</li>
 				</ol>
+			<h3>Etsy</h3>
+			<ol>
+				<li>Etsy shows top sellers with crisp photos, good profiles, top # of followers, reviews, and customers first
+					on home page.  The success of others should prompt new users to register and sell or buy</li
+				<li>User product clicks are cached so similar items are shown to them while they persuse the site and on future
+				visits. The draws them back</li>
+				<li>Provide registration button, open shop button, and seller button to draw eye.  User can click any.</li>
+				<li>Upon click, a window pops up prompting for username and email address.  User will fill out form an click submit.
+				<li>Upon submition, a another popup window will ask for currency type selection with an easy pull down menu.
+					The currency for their country is already selected, so the user only has to click ACCEPT.  If user tries to
+					skip this step, no more windows are provided to continue registration  </li>
+				<li>Upon currency selection, user is brought to a page where they can easily add products, costs, shipping,
+				and payment information</li>
+				<li>This registration process is as simplified as etsy can make it,
+					while forcing the user to complete all information in order to register.</li>
+			</ol>
 
-			<h3>Unregistered Buyer User Instance 2</h3>
+			<h3>Unregistered Buyer User Instance </h3>
 				<ol>
 					<li>Click Register</li>
 					<li>Input Information</li>
