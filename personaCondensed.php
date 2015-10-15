@@ -24,7 +24,7 @@
 	<body>
 				<div id ='orangegrad'><p class="lead">Etsy<br><p id="persona">user Persona</p></div>
 	<script>
-		$('#orangegrad').addClass('animated fadeInRight');
+		$('#orangegrad').addClass('animated rubberBand');
 	</script>
 
 
@@ -60,6 +60,11 @@
 							</script>
 
 							<p id="thoughts">Notes upon navigating through site</p>
+							<script>
+							$('#thoughts').addClass('animated slideInLeft');
+							</script>
+
+
 							<ul>
 								<li>		Site is easy to use</li>
 									<li>	Listing cost of $0.20 for four
@@ -74,12 +79,12 @@
 				<p id="step1""><strong>Exploration of the website</strong><br><i>"User Take on Etsy"</i>
 			</div>
 						<script>
-						$('#furtherSteps').addClass('animated fadeInLeft');
+						$('#furtherSteps').addClass('animated continuous bounce');
 						</script>
 
 						<div id="companyInfo">
 
-						<h3 class="animated fadeInDown">Etsy</h3>
+						<h3 class="animated slideInRight">Etsy</h3>
 						<ol>
 							<li>Etsy shows top sellers with crisp photos, good profiles, top # of followers, reviews, and customers first
 								on home page.  The success of others should prompt new users to register and sell or buy</li
@@ -97,22 +102,33 @@
 						</ol>
 						</div>
 				<div id="unregisteredUser">
-					<h3>User Registration</h3>
-				<h1 id="register"><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></h1>
-				<ol id="registerList">
-					$('#registerList').addClass('animated fadeUpLeft');
+					<h3 id="userRegistration">User Registration</h3>
+					<script>
+						$('#userRegistration').addClass('animated continuous jello');
+					</script>
+					<p><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></p>
 
+
+					<ol id="registerList">
 					<li>Click "register" tab</li>
-				<li>Input registration information and click on Register</li>
-				<li>Choose Currency Type</li>
-				<li>Verify link in your email</li>
-				<li>Click on "Your Shop"</li>
-				<li>click plus button to add items and info></li>
-				<li>click to preview</li>
-				<li>add more listings or continue</li>
-				<li>setup direct checkout</li>
-			</ol>
-			</div>
-		</main>
+					<li>Input registration information and click on Register</li>
+					<li>Choose Currency Type</li>
+					<li>Verify link in your email</li>
+					<li>Click on "Your Shop"</li>
+					<li>click plus button to add items and info></li>
+					<li>click to preview</li>
+					<li>add more listings or continue</li>
+					<li>setup direct checkout</li>
+					</ol>
+				</div>
+						<script>
+						$('#registerList').addClass('');
+						</script>
+					<div id="entity">
+						<h1>Entity Relationship</h1>
+					</div>
+
+
+		</main>kj
 	</body>
 </html>
