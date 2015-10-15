@@ -67,40 +67,24 @@
 			<div id="furtherSteps">
 				<p id="step1""><strong>Exploration of the website</strong><br><i>"User Take on Etsy"</i>
 			</div>
-			<div id="unregisteredUser">
-				<h3>User Registration Instance 1</h3>
-							<ol>
-									<li>Click on "Sell on Etsy"</li>
-									<li>Link doesn't work</li>
-									<li> Click on "Open your Etsy Shop</li>
-									<li>Link takes you to Sign in page, which seller cannot do
-										as he is not yet a member</li>
-									<li> Click on Register</li>
-									<li> Complete Information and click "Register" button</li>
-									<li>Click "yes" button to choose US dollar as currency or choose a
-										different currency</li>
-									<li>message appears to check email.  Go to your email to confirm account</li>
-									<li>if you typed wrong email, click button to change email address.  Message appears
-										to close account. Another message appears that account is uncomfirmed.  X out of these. </li>
-									<li>message appears that you didn't click to accept change to your account in the wrong
-										email address and offers to resend confirmation.  Even though you cannot access that email address</li>
-									<li> press back arrow or reenter website in search tool bar to start the process all over again</li>
-									<li> A message shows that you are signed in.  Apparantly you DON'T have to confirm email</li>
-									<li>Choose what you hope to accomplish from provided options on popup window</li>
-									<li>You are directed to fill out shop name in provided box</li>
-									<li>click "save"</li>
-									<li>The style guide here is very simple to follow.  Click the plus sign to add a listing</li>
-									<li>popup window says a message was sent to you adjusted email.  You can now check and confirm this</li>
-									<li>confirmation link in email brings you to a new page and a popup window says
-									that your account was confirmed.  However, you are no longer on the page you were working on</li>
-									<li>click "your shop"</li>
-									<li>click the plus sign to add a listing</li>
-									<li>follow the simple directions to add photos and listing details</li>
-									<li> click to preview listing</li>
-									<li> edit or save and continue</li>
-									<li> add more listings and or continue</li>
-									<li>Set up Direct Checkout</li>
-								</ol>
+						<div id="companyInfo">
+						<h3>Etsy</h3>
+						<ol>
+							<li>Etsy shows top sellers with crisp photos, good profiles, top # of followers, reviews, and customers first
+								on home page.  The success of others should prompt new users to register and sell or buy</li
+							<li>User product clicks are cached so similar items are shown to them while they persuse the site and on future
+								visits. The draws them back</li>
+							<li>Provide registration button, open shop button, and seller button to draw eye.  User can click any.</li>
+							<li>Upon click, a window pops up prompting for username and email address.  User will fill out form an click submit.
+							<li>Upon submition, a another popup window will ask for currency type selection with an easy pull down menu.
+								The currency for their country is already selected, so the user only has to click ACCEPT.  If user tries to
+								skip this step, no more windows are provided to continue registration  </li>
+							<li>Upon currency selection, user is brought to a page where they can easily add products, costs, shipping,
+								and payment information</li>
+							<li>This registration process is as simplified as etsy can make it,
+								while forcing the user to complete all information in order to register.</li>
+						</ol>
+						</div>
 				<div id="unregisteredUser">
 					<h3>User Registration Instance 2</h3>
 					<ol>
