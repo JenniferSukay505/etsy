@@ -97,8 +97,8 @@ i {
 #thoughts {
 	color:lightsteelblue;
 	background-color:black;
-	-Moz-animation-duration: 10s;
-	-webkit-animation-iteration-count: 10;
+	-Moz-animation-iteration-count: infinite;
+
 
 }
 #furtherSteps {
