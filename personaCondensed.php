@@ -14,8 +14,8 @@
 		<script type="text/javascript" src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/additional-methods.min.js"></script>
 		<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.0.2/js.cookie.min.js"></script>
+		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<title>Persona and Use Cases</title>
 	</head>
 	<body>
@@ -80,7 +80,7 @@
 						</ol>
 						</div>
 				<div id="unregisteredUser">
-					<h3>User Registration Instance 2</h3>
+					<h3>User Registration</h3>
 					<ol>
 				<p id="register"><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></p>
 				<ol id="registerList">
