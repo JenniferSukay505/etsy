@@ -127,6 +127,10 @@
 						</script>
 					<div id="entityRelationship">
 						<h1>Entity Relationship</h1>
+						<script>
+						$('#entityRelationship').addClass('animated continuous flash');
+						</script>
+
 						<p>
 							<ul>
 							<li> The entity <span id="entity">state</span> has a one-to-one relationship between the name of the state and its two-character
