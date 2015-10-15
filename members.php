@@ -64,6 +64,4 @@ for ($j = 0 ; $j < $num ; ++$j)
 }
 ?>
 
-</ul></div>
-</body>
-</html>
+

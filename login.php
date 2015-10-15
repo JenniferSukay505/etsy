@@ -42,8 +42,6 @@ _END;
 <br>
 <span class='fieldname'>&nbsp;</span>
 <input type='submit' value='Login'>
-</form>
+
 <br>
-</div>
-</body>
-</html>
+

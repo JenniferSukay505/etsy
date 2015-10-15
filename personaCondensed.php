@@ -5,8 +5,10 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+		<link type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 		<link type="text/css" href="css/styles.css" rel="stylesheet"/>
+		<link rel="stylesheet" href="animate.min.css">
 		<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css"/>
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
@@ -16,16 +18,22 @@
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.0.2/js.cookie.min.js"></script>
 		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+
 		<title>Persona and Use Cases</title>
 	</head>
 	<body>
-				<div class='orangegrad'><p class="lead">Etsy<br><span id="persona"><small>user Persona</small></span></div>
-			<main class="container">
+				<div id ='orangegrad'><p class="lead">Etsy<br><p id="persona">user Persona</p></div>
+	<script>
+		$('#orangegrad').addClass('animated fadeInRight');
+	</script>
 
-			<ul class="list-group">
-					<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong></li>
-					<li class="list-group-item"><span>Personality</span>		Unique, individual, natural, hippy</li>
-					<li class="list-group-item"><span>Tech level</span>		Has a mac osx laptop that she uses for shopping
+
+		<main class="container">
+
+			<ul class="list-group" id="profile">
+				<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong</li>
+				<li class="list-group-item"><span>Personality</span>			Unique, individual, natural, hippy</li>
+				<li class="list-group-item"><span>Tech level</span>			Has a mac osx laptop that she uses for shopping
 																								and social networking.  She appreciates high tech
 																								and has a iphone 6 and saves for nice items. She
 																								is competent in using websites and familiar with good quality flow.
@@ -35,7 +43,7 @@
 																								appreciated.</li>
 				<li class="list-group-item"><span>Career</span>					Waitress and fashion student</li>
 					<li class="list-group-item"><span>Age</span>					38</li>
-					<li class="list-group-item"><span>Product</span>			Quality, one-of-a-kind clothing</span></li>
+					<li class="list-group-item"><span>Product</span>			Quality, one-of-a-kind clothing</p></li>
 					<li class="list-group-item"><span>Product Price</span> 	$160-240</li>
 					<li class="list-group-item"><span>Goals</span>
 						<ul>
@@ -47,6 +55,10 @@
 																							on etsy and purchase</li>
 							</ul>
 						<div id="exploreEtsy">
+							<script>
+							$('#exploreEtsy').addClass('slideInLeft');
+							</script>
+
 							<p id="thoughts">Notes upon navigating through site</p>
 							<ul>
 								<li>		Site is easy to use</li>
@@ -61,8 +73,13 @@
 			<div id="furtherSteps">
 				<p id="step1""><strong>Exploration of the website</strong><br><i>"User Take on Etsy"</i>
 			</div>
+						<script>
+						$('#furtherSteps').addClass('animated fadeInLeft');
+						</script>
+
 						<div id="companyInfo">
-						<h3>Etsy</h3>
+
+						<h3 class="animated fadeInDown">Etsy</h3>
 						<ol>
 							<li>Etsy shows top sellers with crisp photos, good profiles, top # of followers, reviews, and customers first
 								on home page.  The success of others should prompt new users to register and sell or buy</li
@@ -81,10 +98,11 @@
 						</div>
 				<div id="unregisteredUser">
 					<h3>User Registration</h3>
-					<ol>
-				<p id="register"><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></p>
+				<h1 id="register"><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></h1>
 				<ol id="registerList">
-				<li>Click "register" tab</li>
+					$('#registerList').addClass('animated fadeUpLeft');
+
+					<li>Click "register" tab</li>
 				<li>Input registration information and click on Register</li>
 				<li>Choose Currency Type</li>
 				<li>Verify link in your email</li>

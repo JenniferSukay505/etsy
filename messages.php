@@ -79,6 +79,4 @@ if (!$num) echo "<br><span class='info'>No messages yet</span><br><br>";
 echo "<br><a class='button' href='messages.php?view=$view'>Refresh messages</a>";
 ?>
 
-</div><br>
-</body>
-</html>
+

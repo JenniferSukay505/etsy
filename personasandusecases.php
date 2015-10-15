@@ -94,7 +94,7 @@
 				<li>Input Information</li>
 				<li>Click Register button</li>
 				<li>A popup window says that your account is unconfirmed.  Go to email and click link to confirm account</li>
-			</h1>
+			</ol>
 		<h2>Seller 1</h2>
 		<ul>
 			<li>Name:Derek Mauldin</li>

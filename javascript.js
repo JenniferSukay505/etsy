@@ -14,7 +14,8 @@ image.onload = function()
 	context.fillText(  "Etsy", 0, 0);
 	context.strokeText("Etsy Nest", 0, 0);
 	context.drawImage(image, 64, 32)
-}
+};
+
 
 function O(i) { return typeof i == 'object' ? i : document.getElementById(i) }
 function S(i) { return O(i).style                                            }

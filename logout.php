@@ -13,6 +13,4 @@ else echo "<div class='main'><br>" .
 
 <br>
 <br>
-</div>
-</body>
-</html>
+

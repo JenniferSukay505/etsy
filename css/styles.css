@@ -20,6 +20,7 @@ ol {
 span {
 	color:blueviolet;
 	text-align: right;
+	font-weight: bolder;
 }
 section {
 	color: black;
@@ -98,7 +99,7 @@ i {
 	font-size:3.5em;
 	color:black;
 }
-.orangegrad {
+#orangegrad {
 	background:orange;
 	background:linear-gradient(top,#fb0,#f50);
 	background:-moz-linear-gradient(top,#fb0,#f50);
