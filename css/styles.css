@@ -50,6 +50,10 @@ i {
 	color:lightgray;
 	padding-left:2em;
 }
+#companyInfo {
+	color:lightblue;
+	background-color: black;
+}
 #age {
 	color:black;
 }
