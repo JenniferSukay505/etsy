@@ -28,8 +28,8 @@ span {
 #entityRelationship {
 	color:wheat;
 	background-color: black;
-	-Moz-animation-duration: 5s;
-	-webkit-animation-delay: 1s;
+	-Moz-animation-duration: 10s;
+	-webkit-animation-delay: 5s;
 	-Moz-animation-iteration-count: infinite;
 }
 }
