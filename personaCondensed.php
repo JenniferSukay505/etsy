@@ -8,7 +8,7 @@
 		<link type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-alpha1/jquery.min.js"
 		<link type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" rel="stylesheet"/>
 		<link type="text/css" href="css/styles.css" rel="stylesheet"/>
-		<link rel="stylesheet" href="animate.min.css">
+		<link rel="stylesheet" href="animate.min.css"/>
 		<link type="text/css" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css"/>
 		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.form/3.51/jquery.form.min.js"></script>
@@ -131,8 +131,7 @@
 							<ul>
 							<li> The entity <span id="entity">state</span> has a one-to-one relationship between the name of the state and its two-character
 								abbreviation.</li>
-
-							<li>The entity <span id="entity">BuyerId</span> a one-to-many relationsip with the Entity <span id="entity">Purchases. </span>
+							<li>The entity <span id="entity">BuyerId</span> a one-to-many relationship with the Entity <span id="entity">Purchases. </span>
 							One customer has a relationship with many purchases.</li>
 							<li>The entity <span id="entity">Buyer</span>has a many-to-many relationship with the entity <span id="entity">ProductId.</span></li>
 						</ul>

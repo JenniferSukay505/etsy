@@ -32,7 +32,7 @@ span {
 	-webkit-animation-delay: 5s;
 	-Moz-animation-iteration-count: infinite;
 }
-}
+
 section {
 	color: black;
 }
@@ -49,13 +49,7 @@ i {
 	color: black;
 	background-color:lightgray;
 }
-.content {
-	color: black;
-	text-align: right;
-}
-.animated slideInRight {
 
-}
 #registerList {
 	color:lightgray;
 }
@@ -63,10 +57,7 @@ i {
 	color:black;
 	padding-left:1.5em;
 }
-#register {
-	color:lightgray;
-	padding-left:2em;
-}
+
 #companyInfo {
 	color:lightblue;
 	background-color: black;
@@ -74,27 +65,14 @@ i {
 	-webkit-animation-delay: 1s;
 	-webkit-animation-iteration-count: 10;
 }
-#age {
-	color:black;
-}
-#product {
-	color:black;
-}
-#productPrices {
-	color:black;
-}
-#head {
-	color:black;
-}
+
 #step1 {
 	color:black;
 	text-align: center;
 	font-size:1.5em;
 
 }
-#explore {
-	color:black;
-}
+
 #unregisteredUser {
 	background-color: darkslategray;
 }
@@ -136,6 +114,3 @@ i {
 	-Moz-animation-iteration-count: infinite;
 }
 
-#exploreList {
-	background-color:darkgray;
-}
