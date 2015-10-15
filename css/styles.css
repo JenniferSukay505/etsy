@@ -49,6 +49,9 @@ i {
 	color: black;
 	text-align: right;
 }
+.animated slideInRight {
+
+}
 #registerList {
 	color:lightgray;
 }
@@ -63,9 +66,9 @@ i {
 #companyInfo {
 	color:lightblue;
 	background-color: black;
-	-Moz-animation-duration: 3s;
-	-webkit-animation-delay: 2s;
-	-webkit-animation-iteration-count: infinite;
+	-Moz-animation-duration: 15s;
+	-webkit-animation-delay: 3s;
+	-webkit-animation-iteration-count: 4;
 }
 #age {
 	color:black;
@@ -94,9 +97,9 @@ i {
 #thoughts {
 	color:lightsteelblue;
 	background-color:black;
-	-Moz-animation-duration: 3s;
-	-webkit-animation-delay: 2s;
-	-webkit-animation-iteration-count: infinite;
+	-Moz-animation-duration: 20s;
+	-webkit-animation-delay: 3s;
+	-webkit-animation-iteration-count: 4;
 
 }
 #furtherSteps {
@@ -105,9 +108,9 @@ i {
 	background:-moz-linear-gradient(top,springgreen,lawngreen);
 	background:-webkit-linear-gradient(top,limegreen,yellowgreen);
 	background:-ms-linear-gradient(top,seagreen,darkgreen);
-	-Moz-animation-duration: 3s;
+	-Moz-animation-duration: 35s;
 	-webkit-animation-delay: 2s;
-	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-iteration-count: 3;
 }
 #exploreEtsy {
 	background-color:gray;
@@ -124,6 +127,8 @@ i {
 	background: -moz-linear-gradient(top, #fb0, #f50);
 	background: -webkit-linear-gradient(top, #fb0, #f50);
 	background: -ms-linear-gradient(top, #fb0, #f50);
+	-Moz-animation-duration: 20s;
+	-webkit-animation-iteration-count: 2;
 }
 
 #exploreList {

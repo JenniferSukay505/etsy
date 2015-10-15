@@ -77,8 +77,9 @@
 						</script>
 
 						<div id="companyInfo">
-
-						<h3 class="animated slideInRight">Etsy</h3>
+						<script>
+							$('#companyInfo').addClass('animated slideInRight');
+						</script>
 						<ol>
 							<li>Etsy shows top sellers with crisp photos, good profiles, top # of followers, reviews, and customers first
 								on home page.  The success of others should prompt new users to register and sell or buy</li
