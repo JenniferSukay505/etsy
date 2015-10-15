@@ -22,46 +22,43 @@
 		<title>Persona and Use Cases</title>
 	</head>
 	<body>
-				<div id ='orangegrad'><p class="lead">Etsy<br><p id="persona">user Persona</p></div>
-	<script>
-		$('#orangegrad').addClass('animated rubberBand');
-	</script>
-		<main class="container">
-			<ul class="list-group" id="profile">
-				<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong</li>
-				<li class="list-group-item"><span>Personality</span>			Unique, individual, natural, hippy</li>
-				<li class="list-group-item"><span>Tech level</span>			Has a mac osx laptop that she uses for shopping
-																								and social networking.  She appreciates high tech
-																								and has a iphone 6 and saves for nice items. She
-																								is competent in using websites and familiar with good quality flow.
-																								She has no patience for older sites with improper
-																								links.</li>
-				<li class="list-group-item"><span>City</span>					LA, where non-bulk, rare, beautiful, items are
-																								appreciated.</li>
-				<li class="list-group-item"><span>Career</span>					Waitress and fashion student</li>
-					<li class="list-group-item"><span>Age</span>					38</li>
-					<li class="list-group-item"><span>Product</span>			Quality, one-of-a-kind clothing</p></li>
-					<li class="list-group-item"><span>Product Price</span> 	$160-240</li>
+			<div id ='orangegrad'><p class="lead">Etsy<br><p id="persona">user Persona</p></div>
+		<script>
+			$('#orangegrad').addClass('animated rubberBand');
+		</script>
+			<main class="container">
+				<ul class="list-group" id="profile">
+					<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong</li>
+					<li class="list-group-item"><span>Personality</span>			Unique, individual, natural, hippy</li>
+					<li class="list-group-item"><span>Tech level</span>			Has a mac osx laptop that she uses for shopping
+																									and social networking.  She appreciates high tech
+																									and has a iphone 6 and saves for nice items. She
+																									is competent in using websites and familiar with good quality flow.
+																									She has no patience for older sites with improper
+																									links.</li>
+				<li class="list-group-item"><span>City</span>						LA, where non-bulk, rare, beautiful, items are
+																									appreciated.</li>
+				<li class="list-group-item"><span>Career</span>						Waitress and fashion student</li>
+					<li class="list-group-item"><span>Age</span>						38</li>
+					<li class="list-group-item"><span>Product</span>				Quality, one-of-a-kind clothing</p></li>
+					<li class="list-group-item"><span>Product Price</span> 		$160-240</li>
 					<li class="list-group-item"><span>Goals</span>
 						<ul>
-							<li class="list-group-item"><span>A </span>		Find out if etsy is worth her time to join as
-																							a buyer and or seller.
-							<li class="list-group-item"><span>B </span> 		Gain a reputation for making quality goods and earn
-																							as much money as possible</li>
-							<li class="list-group-item"><span>C </span> 		Find deals and high quality jewelry and clothing
-																							on etsy and purchase</li>
+							<li class="list-group-item"><span>A </span>			Find out if etsy is worth her time to join as
+																								a buyer and or seller.
+							<li class="list-group-item"><span>B </span> 			Gain a reputation for making quality goods and earn
+																								as much money as possible</li>
+							<li class="list-group-item"><span>C </span> 			Find deals and high quality jewelry and clothing
+																								on etsy and purchase</li>
 							</ul>
 						<div id="exploreEtsy">
 							<script>
-							$('#exploreEtsy').addClass('slideInLeft');
+								$('#exploreEtsy').addClass('slideInLeft');
 							</script>
-
-							<p id="thoughts">Notes upon navigating through site</p>
+								<p id="thoughts">Notes upon navigating through site</p>
 							<script>
-							$('#thoughts').addClass('animated slideInLeft');
+								$('#thoughts').addClass('animated slideInLeft');
 							</script>
-
-
 							<ul>
 								<li>		Site is easy to use</li>
 									<li>	Listing cost of $0.20 for four

@@ -63,6 +63,9 @@ i {
 #companyInfo {
 	color:lightblue;
 	background-color: black;
+	-Moz-animation-duration: 3s;
+	-webkit-animation-delay: 2s;
+	-webkit-animation-iteration-count: infinite;
 }
 #age {
 	color:black;
@@ -91,13 +94,20 @@ i {
 #thoughts {
 	color:lightsteelblue;
 	background-color:black;
+	-Moz-animation-duration: 3s;
+	-webkit-animation-delay: 2s;
+	-webkit-animation-iteration-count: infinite;
+
 }
 #furtherSteps {
 	background:palegreen;
 	background:linear-gradient(top,lightgreen,mediumspringgreen);
 	background:-moz-linear-gradient(top,springgreen,lawngreen);
-	background: -webkit-linear-gradient(top,limegreen,yellowgreen);
-	background: -ms-linear-gradient(top,seagreen,darkgreen);
+	background:-webkit-linear-gradient(top,limegreen,yellowgreen);
+	background:-ms-linear-gradient(top,seagreen,darkgreen);
+	-Moz-animation-duration: 3s;
+	-webkit-animation-delay: 2s;
+	-webkit-animation-iteration-count: infinite;
 }
 #exploreEtsy {
 	background-color:gray;
@@ -109,12 +119,13 @@ i {
 	color:black;
 }
 #orangegrad {
-	background:orange;
-	background:linear-gradient(top,#fb0,#f50);
-	background:-moz-linear-gradient(top,#fb0,#f50);
-	background: -webkit-linear-gradient(top,#fb0,#f50);
-	background: -ms-linear-gradient(top,#fb0,#f50);
+	background: orange;
+	background: linear-gradient(top, #fb0, #f50);
+	background: -moz-linear-gradient(top, #fb0, #f50);
+	background: -webkit-linear-gradient(top, #fb0, #f50);
+	background: -ms-linear-gradient(top, #fb0, #f50);
 }
+
 #exploreList {
 	background-color:darkgray;
 }
