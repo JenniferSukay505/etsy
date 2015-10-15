@@ -73,7 +73,8 @@
 				<p id="step1""><strong>Exploration of the website</strong><br><i>"User Take on Etsy"</i>
 			</div>
 						<script>
-						$('#furtherSteps').addClass('animated continuous bounce');
+						$('#furtherSteps').addClass('animated bounceOutLeft');
+
 						</script>
 
 						<div id="companyInfo">

@@ -68,7 +68,7 @@ i {
 	background-color: black;
 	-Moz-animation-duration: 3s;
 	-webkit-animation-delay: 1s;
-	-webkit-animation-iteration-count: 3;
+	-webkit-animation-iteration-count: 10;
 }
 #age {
 	color:black;
@@ -97,9 +97,8 @@ i {
 #thoughts {
 	color:lightsteelblue;
 	background-color:black;
-	-Moz-animation-duration: 3s;
-	-webkit-animation-delay: 2s;
-	-webkit-animation-iteration-count: 4;
+	-Moz-animation-duration: 10s;
+	-webkit-animation-iteration-count: 10;
 
 }
 #furtherSteps {
