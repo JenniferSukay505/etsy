@@ -100,7 +100,7 @@
 				<div id="unregisteredUser">
 					<h3 id="userRegistration">User Registration</h3>
 					<script>
-						$('#userRegistration').addClass('animated continuous jello');
+						$('#userRegistration').addClass('animated rollOut');
 					</script>
 					<p><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></p>
 
