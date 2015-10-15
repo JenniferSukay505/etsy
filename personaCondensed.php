@@ -100,7 +100,7 @@
 				<div id="unregisteredUser">
 					<h3 id="userRegistration">User Registration</h3>
 					<script>
-						$('#userRegistration').addClass('animated rollOut');
+						$('#userRegistration').addClass('animated jello');
 					</script>
 					<p><i>Rebecca decides to set up an account so that she can buy and sell on Etsy</i></p>
 
@@ -124,7 +124,7 @@
 					<div id="entityRelationship">
 						<h1>Entity Relationship</h1>
 						<script>
-						$('#entityRelationship').addClass('animated continuous flash');
+						$('#entityRelationship').addClass('animated rollOut');
 						</script>
 
 						<p>
