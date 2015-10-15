@@ -26,10 +26,7 @@
 	<script>
 		$('#orangegrad').addClass('animated rubberBand');
 	</script>
-
-
 		<main class="container">
-
 			<ul class="list-group" id="profile">
 				<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong</li>
 				<li class="list-group-item"><span>Personality</span>			Unique, individual, natural, hippy</li>
@@ -140,10 +137,7 @@
 							One customer has a relationship with many purchases.</li>
 							<li>The entity <span id="entity">Buyer</span>has a many-to-many relationship with the entity <span id="entity">ProductId.</span></li>
 						</ul>
-
-
-
-
-		</main>kj
+						</div>
+		</main>
 	</body>
 </html>
