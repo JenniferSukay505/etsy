@@ -1,17 +1,119 @@
+body {
+	color:black;
+}
 main {
 	color:lightgrey;
 	background-color:black;
 }
 
-h1 {
-	color: blueviolet;
-	background-color: #888888;
-}
 h2 {
 	color: lightblue;
-	background-color: #888888;
 }
 h3 {
+	font-size:2em;
 	color:lightsteelblue;
+}
+span {
+	color:blueviolet;
+	text-align: right;
+}
+section {
+	color: black;
+}
+strong {
+	font-size:1.5em;
+}
+
+i {
+	font-size:1.25em;
+}
+.container {
+	color: black;
+	background-color:lightgray;
+}
+.content {
+	color: black;
+	text-align: right;
+}
+#registerList {
+	color:lightgray;
+}
+#persona {
+	color:black;
+	padding-left:1.5em;
+}
+#register {
+	color:lightgray;
+	padding-left:2em;
+}
+#age {
+	color:black;
+}
+#product {
+	color:black;
+}
+#productPrices {
+	color:black;
+}
+#head {
+	color:black;
+}
+#step1 {
+	color:black;
+	text-align: center;
+	font-size:1.5em;
+
+}
+#explore {
+	color:black;
+}
+#unregisteredUser {
+	background-color: darkslategray;
+	position:absolute;
+	top: 780px;
+	width:973px;
+	left:100px;
+}
+#thoughts {
+	color:lightsteelblue;
+	font-size:2em;
+	background-color:gray;
+	position:absolute;
+	top: 650px;
+	left:100px;
+}
+#furtherSteps {
+	position:absolute;
+	top:560px;
+	width:973px;
+	left:100px;
+	background:palegreen;
+	background:linear-gradient(top,lightgreen,mediumspringgreen);
+	background:-moz-linear-gradient(top,springgreen,lawngreen);
+	background: -webkit-linear-gradient(top,limegreen,yellowgreen);
+	background: -ms-linear-gradient(top,seagreen,darkgreen);
+}
+#exploreEtsy {
+	background-color:gray;
+	color:black;
+	position:absolute;
+	top:680px;
+	width:973px;
+	left:100px
+
+}
+.lead {
+	font-size:3.5em;
+	color:black;
+}
+.orangegrad {
+	background:orange;
+	background:linear-gradient(top,#fb0,#f50);
+	background:-moz-linear-gradient(top,#fb0,#f50);
+	background: -webkit-linear-gradient(top,#fb0,#f50);
+	background: -ms-linear-gradient(top,#fb0,#f50);
+}
+#exploreList {
+	background-color:darkgray;
 }
 

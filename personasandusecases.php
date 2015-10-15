@@ -34,43 +34,49 @@
 					<li>small fashion company</li>
 					<li>overseas company</li>
 			</ul>
-		<h3>Seller Process</h3>
+				<h3>Unregistered Seller User Instance</h3>
+				<ol>
+					<li>Click "register" tab</li>
+					<li>Input registration information and click on Register</li>
+					<li>Choose Currency Type</li>
+					<li>Verify link in your email</li>
+					<li>Click on "Your Shop"</li>
+					<li>click plus button to add items and info></li>
+					<li>click to preview</li>
+					<li>add more listings or continue</li>
+					<li>setup direct checkout</li>
+				</ol>
+
+			<h3>Unregistered Buyer User Instance 2</h3>
+				<ol>
+					<li>Click Register</li>
+					<li>Input Information</li>
+					<li>Click Register button</li>
+					<li>A popup window says that your account is unconfirmed.  Go to email and click link to confirm account</li>
+					<li>Click plus sign to add products and info</li>
+					<li>Follow instructions to setup Direct Checkout</li>
+				</ol>
 			<ol>
-				<li>Click on "Sell on Etsy"</li>
-				<li>Link doesn't work</li>
-				<li> Click on "Open your Etsy Shop</li>
-				<li>Link takes you to Sign in page, which seller cannot do
-				as he is not yet a member</li>
-				<li> Click on Register</li>
-				<li> Complete Information and click "Register" button</li>
-				<li>Click "yes" button to choose US dollar as currency or choose a
-				different currency</li>
-				<li>message appears to check email.  Go to your email to confirm account</li>
-				<li>if you typed wrong email, click button to change email address.  Message appears
-				to close account. Another message appears that account is uncomfirmed.  X out of these. </li>
-				<li>message appears that you didn't click to accept change to your account in the wrong
-				email address and offers to resend confirmation.  Even though you cannot access that email address</li>
-				<li> press back arrow or reenter website in search tool bar to start the process all over again</li>
-				<li> A message shows that you are signed in.  Apparantly you DON'T have to confirm email</li>
-				<li>Choose what you hope to accomplish from provided options on popup window</li>
-				<li>You are directed to fill out shop name in provided box</li>
-				<li>click "save"</li>
-				<li>The style guide here is very simple to follow.  Click the plus sign to add a listing</li>
-				<li>popup window says a message was sent to you adjusted email.  You can now check and confirm this</li>
-				<li>confirmation link in email brings you to a new page and a popup window says
-				that your account was confirmed.  However, you are no longer on the page you were working on</li>
-				<li>click "your shop"</li>
-				<li>click the plus sign to add a listing</li>
-				<li>follow the simple directions to add photos and listing details</li>
-				<li> click to preview listing</li>
-				<li> edit or save and continue</li>
-				<li> add more listings and or continue</li>
-				<li>Set up Direct Checkout</li>
+				<li>Click "register" tab</li>
+				<li>Input registration information and click on Register</li>
+				<li>Choose Currency Type</li>
+				<li>Verify link in your email</li>
+				<li>Click on "Your Shop"</li>
+				<li>click plus button to add items and info></li>
+				<li>click to preview</li>
+				<li>add more listings or continue</li>
+				<li>setup direct checkout</li>
 			</ol>
-		</h1>
+		<h3>Unregistered Buyer User Instance 1</h3
+			<ol>
+				<li>Click Register</li>
+				<li>Input Information</li>
+				<li>Click Register button</li>
+				<li>A popup window says that your account is unconfirmed.  Go to email and click link to confirm account</li>
+			</h1>
 		<h2>Seller 1</h2>
 		<ul>
-			<li>Name:Rebecca Herrera</li>
+			<li>Name:Derek Mauldin</li>
 			<li>Goal:Earn as much money as possible, gain a reputation, and open a big store</li>
 			<li>Age: 47</li>
 			<li>Career: Fashion Student</li>
@@ -80,7 +86,7 @@
 		<h2>Seller 2</h2>
 
 		<ul>
-			<li>Name:John Edwards</li>
+			<li>Name:Gerard Fongwe</li>
 			<li>Goal: Enjoys making products and want to ease life and make people happy</li>
 			<li>Age:23</li>
 			<li>Career:Comcast Installer</li>
@@ -95,7 +101,7 @@
 				</ul>
 			<h2>Seller 3</h2>
 					<ul>
-						<li> Name: Jonathon Smith</li>
+						<li> Name: Kimberly Keller</li>
 						<li> Goal: hoping to get his name out and become famous</li>
 						<li> age:35</li>
 						<li> Career: computer technician</li>
@@ -104,7 +110,7 @@
 					</ul>
 			<h2>Seller 4</h2>
 				<ul>
-					<li>Name:Rebecca Faris</li>
+					<li>Name:Rochelle Lewis</li>
 					<li>Goal:Earn a lot of money</li>
 					<li>age:29</li>
 					<li>Career:Owner of SW Fashion, the products of which she sells on Etsy</li>
@@ -113,11 +119,11 @@
 				</ul>
 			<h2>Buyer 1</h2>
 				<ul>
-					<li>Name: KC Miera</li>
+					<li>Name: Skylar Rexroad</li>
 					<li>Goal: Just browsing.  Not looking for anything special and doesn't want to spend a lot of money</li>
 					<li>Price Range: up to $20/li>
 					<li>age</li>
-					<li>career: waitress</li>
+					<li>career: restaurant manager</li>
 					<li>interests: jewelry</li>
 					<li>personality- individual, hippy</li>
 					<li>reaction: Does not like that you have to register to login.  Takes awhile before
