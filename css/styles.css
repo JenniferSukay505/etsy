@@ -66,9 +66,9 @@ i {
 #companyInfo {
 	color:lightblue;
 	background-color: black;
-	-Moz-animation-duration: 15s;
-	-webkit-animation-delay: 3s;
-	-webkit-animation-iteration-count: 4;
+	-Moz-animation-duration: 3s;
+	-webkit-animation-delay: 1s;
+	-webkit-animation-iteration-count: 3;
 }
 #age {
 	color:black;
@@ -97,8 +97,8 @@ i {
 #thoughts {
 	color:lightsteelblue;
 	background-color:black;
-	-Moz-animation-duration: 20s;
-	-webkit-animation-delay: 3s;
+	-Moz-animation-duration: 3s;
+	-webkit-animation-delay: 2s;
 	-webkit-animation-iteration-count: 4;
 
 }
@@ -108,9 +108,9 @@ i {
 	background:-moz-linear-gradient(top,springgreen,lawngreen);
 	background:-webkit-linear-gradient(top,limegreen,yellowgreen);
 	background:-ms-linear-gradient(top,seagreen,darkgreen);
-	-Moz-animation-duration: 35s;
+	-Moz-animation-duration: 2s;
 	-webkit-animation-delay: 2s;
-	-webkit-animation-iteration-count: 3;
+	-Moz-animation-iteration-count: infinite;
 }
 #exploreEtsy {
 	background-color:gray;
@@ -127,8 +127,9 @@ i {
 	background: -moz-linear-gradient(top, #fb0, #f50);
 	background: -webkit-linear-gradient(top, #fb0, #f50);
 	background: -ms-linear-gradient(top, #fb0, #f50);
-	-Moz-animation-duration: 20s;
-	-webkit-animation-iteration-count: 2;
+	-Moz-animation-duration: 2s;
+	-webkit-animation-delay: 1s;
+	-Moz-animation-iteration-count: infinite;
 }
 
 #exploreList {
