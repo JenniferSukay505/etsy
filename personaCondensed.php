@@ -122,11 +122,22 @@
 					</ol>
 				</div>
 						<script>
-						$('#registerList').addClass('');
+							$('#userRegistration').addClass('animated continuous bounce');
+
 						</script>
-					<div id="entity">
+					<div id="entityRelationship">
 						<h1>Entity Relationship</h1>
-					</div>
+						<p>
+							<ul>
+							<li> The entity <span id="entity">state</span> has a one-to-one relationship between the name of the state and its two-character
+								abbreviation.</li>
+
+							<li>The entity <span id="entity">BuyerId</span> a one-to-many relationsip with the Entity <span id="entity">Purchases. </span>
+							One customer has a relationship with many purchases.</li>
+							<li>The entity <span id="entity">Buyer</span>has a many-to-many relationship with the entity <span id="entity">ProductId.</span></li>
+						</ul>
+
+
 
 
 		</main>kj
