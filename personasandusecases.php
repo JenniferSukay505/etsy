@@ -16,14 +16,19 @@
 			<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 			<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 			<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.0.2/js.cookie.min.js"></script>
-			<script src= "js/script.js"></script>
 			<title>Personas and Use Cases</title>
 	</head>
 	<body>
-		<main>
-		<div>
+
+		<!-- bootstrap add main class="container" at top or after header div -->
+		<main class="container">
 			<h1>Personas</h1>
-		</div>
+			<table class="table table-responsive table-striped">
+				<tr>
+					<td><span>Name</span></td>
+					<td>John Mierzwa, all mighty, all powerful, all knowing, all singing, all dancing, all deep dive coding.</td>
+				</tr>
+			</table>
 			<h2>Standard Seller Profile</h2>
 		<ul>
 			<li> age: 18-65 </li>

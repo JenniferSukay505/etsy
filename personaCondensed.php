@@ -16,18 +16,12 @@
 		<script type="text/javascript" src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 		<script type="text/javascript" src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/js-cookie/2.0.2/js.cookie.min.js"></script>
-		<script src= "js/script.js"></script>
 		<title>Persona and Use Cases</title>
 	</head>
 	<body>
 				<div class='orangegrad'><p class="lead">Etsy<br><span id="persona"><small>user Persona</small></span></div>
 			<main class="container">
-				<table class="table table-responsive table-striped">
-					<tr>
-						<td><span>Name</span></td>
-						<td>John Mierzwa, all mighty, all powerful, all knowing, all singing, all dancing, all deep dive coding.</td>
-					</tr>
-				</table>
+
 			<ul class="list-group">
 					<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong></li>
 					<li class="list-group-item"><span>Personality</span>		Unique, individual, natural, hippy</li>
