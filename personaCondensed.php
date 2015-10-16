@@ -106,6 +106,20 @@
 								<li>setup direct checkout</li>
 							</ol>
 					</div>
+				<div id="entityRelationship">
+					<p class="lead">Entity Relationship</p>
+					<script>
+						$('#entityRelationship').addClass('animated rollOut');
+					</script>
+					<p>
+					<ul>
+						<li> The entity <span id="entity">state</span> has a one-to-one relationship between the name of the state and its two-character
+							abbreviation.</li>
+						<li>The entity <span id="entity">BuyerId</span> a one-to-many relationship with the Entity <span id="entity">Purchases. </span>
+							One customer has a relationship with many purchases.</li>
+						<li>The entity <span id="entity">Buyer</span>has a many-to-many relationship with the entity <span id="entity">ProductId.</span></li>
+					</ul>
+				</div>
 		</main>
 	</body>
 </html>
