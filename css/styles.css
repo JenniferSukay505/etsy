@@ -96,7 +96,7 @@ body { background:black; overflow:hidden; }
 	height:80px;
 	width:80px;
 	border-radius:50%;
-	position:absolute;
+	position:fixed;
 	top:calc(100% - 80px);
 	left:calc(80% - 40px);
 	box-shadow:
@@ -106,14 +106,14 @@ body { background:black; overflow:hidden; }
 	-178px 0 0 -20px white,
 	0 0 0 20px orange,
 	0 0 0 30px deeppink,
-	0 0 0 130px black,
-	0 0 0 135px white;
+	0 0 0 130px orange,
+	0 0 0 135px lightsalmon;
 	-webkit-animation: rotate 3s linear infinite;
 	animation: rotate 3s linear infinite;
 }
 #gif:before {
 	content: " ";
-	position: absolute;
+	position: fixed;
 	height:50px;
 	width:50px;
 	border-radius:50%;
@@ -122,8 +122,8 @@ body { background:black; overflow:hidden; }
 	background:black;
 	border: 5px solid white;
 	box-shadow:
-	0 355px 0 -5px black,
-	0 355px 0 0px white;
+	0 355px 0 -5px blueviolet,
+	0 355px 0 0px green;
 	-webkit-animation: reverseRotate 3s linear infinite;
 	animation: reverseRotate 3s linear infinite;
 }
