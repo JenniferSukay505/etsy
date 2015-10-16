@@ -1,5 +1,6 @@
+
 body {
-	color:white;
+	color:black;
 	background-color: black;
 }
 main {
@@ -20,19 +21,7 @@ ol {
 span {
 	color:blueviolet;
 	text-align: right;
-	font-weight: bolder;
 }
-#entity {
-	color:springgreen;
-}
-#entityRelationship {
-	color:wheat;
-	background-color: black;
-	-Moz-animation-duration: 10s;
-	-webkit-animation-delay: 5s;
-	-Moz-animation-iteration-count: infinite;
-}
-
 section {
 	color: black;
 }
@@ -42,14 +31,15 @@ strong {
 
 i {
 	font-size:1.25em;
-	font-style:italic;
-	font-weight:normal;
 }
 .container {
 	color: black;
 	background-color:lightgray;
 }
-
+.content {
+	color: black;
+	text-align: right;
+}
 #registerList {
 	color:lightgray;
 }
@@ -57,39 +47,44 @@ i {
 	color:black;
 	padding-left:1.5em;
 }
-
-#companyInfo {
-	color:lightblue;
-	background-color: black;
-	-Moz-animation-duration: 3s;
-	-webkit-animation-delay: 1s;
-	-webkit-animation-iteration-count: 10;
+#register {
+	color:lightgray;
+	padding-left:2em;
 }
-
+#age {
+	color:black;
+}
+#product {
+	color:black;
+}
+#productPrices {
+	color:black;
+}
+#head {
+	color:black;
+}
 #step1 {
 	color:black;
 	text-align: center;
 	font-size:1.5em;
-}
 
+}
+#explore {
+	color:black;
+}
 #unregisteredUser {
 	background-color: darkslategray;
 }
 #thoughts {
 	color:lightsteelblue;
-	background-color:black;
-	-Moz-animation-duration: 5s;
-	-Moz-animation-iteration-count: infinite;
+	background-color:gray;
 }
 #furtherSteps {
 	background:palegreen;
 	background:linear-gradient(top,lightgreen,mediumspringgreen);
 	background:-moz-linear-gradient(top,springgreen,lawngreen);
-	background:-webkit-linear-gradient(top,limegreen,yellowgreen);
-	background:-ms-linear-gradient(top,seagreen,darkgreen);
-	-Moz-animation-duration: 2s;
-	-webkit-animation-delay: 2s;
-	-Moz-animation-iteration-count: infinite;
+	background: -webkit-linear-gradient(top,limegreen,yellowgreen);
+	background: -ms-linear-gradient(top,seagreen,darkgreen);
 }
 #exploreEtsy {
 	background-color:gray;
@@ -100,14 +95,13 @@ i {
 	font-size:3.5em;
 	color:black;
 }
-#orangegrad {
-	background: orange;
-	background: linear-gradient(top, #fb0, #f50);
-	background: -moz-linear-gradient(top, #fb0, #f50);
-	background: -webkit-linear-gradient(top, #fb0, #f50);
-	background: -ms-linear-gradient(top, #fb0, #f50);
-	-Moz-animation-duration: 2s;
-	-webkit-animation-delay: 1s;
-	-Moz-animation-iteration-count: infinite;
+.orangegrad {
+	background:orange;
+	background:linear-gradient(top,#fb0,#f50);
+	background:-moz-linear-gradient(top,#fb0,#f50);
+	background: -webkit-linear-gradient(top,#fb0,#f50);
+	background: -ms-linear-gradient(top,#fb0,#f50);
 }
-
+#exploreList {
+	background-color:darkgray;
+}
