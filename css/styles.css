@@ -54,7 +54,7 @@ i {
 
 }
 
-#signup {
+#furtherSteps {
 	background:palegreen;
 	background:linear-gradient(top,yellow,greenyellow);
 	background:-moz-linear-gradient(top,mediumvioletred,darkgoldenrod);
@@ -68,7 +68,7 @@ i {
 	background:-ms-linear-gradient(top,violetet,deeppink);
 }
 
-#furtherSteps{
+#signup{
 	background:linear-gradient(top,yellow,greenyellow);
 	background:-moz-linear-gradient(top,aquamarine,blue);
 	background:-webkit-linear-gradient(top,forestgreen,orangered);
