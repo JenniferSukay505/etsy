@@ -19,7 +19,9 @@
 		<title>Persona and Use Cases</title>
 	</head>
 	<body>
-		<div class='orangegrad'><p class="lead">Etsy<br><span id="persona"><small>user Persona</small></span></div>
+		<div id='orangegrad'><p class="lead">Etsy<br><span id="persona"><small>user Persona</small></span></div>
+		<div id="gifLarge"><div id='gif'></div></div>
+
 		<main class="container">
 			<main class="container">
 				<table class="table table-responsive table-striped">
