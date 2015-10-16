@@ -47,25 +47,22 @@
 							on etsy and purchase</li>
 					</ul>
 					<div id="exploreEtsy">
-						<p id="thoughts">Notes upon navigating through site</p>
-						<ul>
-							<li>		Site is easy to use</li>
+						<p class="lead"> Rebecca's thoughts</p>
+						<ol>
+							<li>  Etsy is easy to use</li>
 							<li>	Listing cost of $0.20 for four
 								months and 3.5% of the selling price are affordable</li>
 							<li>	Sellers are well-displayed,
 								have hundreds of followers, and are well-reviewed.</li>
 							<li>	Items are fairly priced and most items seem to sell quickly and easily</li>
 							<li>	The site attracts a large market of buyers for unique, well made items like Rebecca's.</li>
-						</ul>
+						</ol>
 					</div>
 					<div id="furtherSteps">
-						<p id="step1""><strong>Exploration of the website</strong>
-					</div>
-					<div id="companyInfo">
-						<h3>Etsy</h3>
+						<p id="step1""><p class="lead">Etsy's thoughts</p>
 						<ol>
 							<li>Etsy shows top sellers with crisp photos, good profiles, top # of followers, reviews, and customers first
-								on home page.  The success of others should prompt new users to register and sell or buy</li
+								on home page.  The success of others should prompt new users to register and sell or buy</li>
 							<li>User product clicks are cached so similar items are shown to them while they persuse the site and on future
 								visits. The draws them back</li>
 							<li>Provide registration button, open shop button, and seller button to draw eye.  User can click any.</li>
@@ -79,10 +76,10 @@
 								while forcing the user to complete all information in order to register.</li>
 						</ol>
 					</div>
-					<div id="unregisteredUser">
-						<h3>User</h3>
+					<div id="signup">
+						<p class="lead">User Signup</p>
 						<p><i>Rebecca decides to set up an account so that she can buy and sell on Etsy.</i></p>
-						<ol id="registerList">
+							<ol>
 								<li>Click "register" tab</li>
 								<li>Input registration information and click on Register</li>
 								<li>Choose Currency Type</li>

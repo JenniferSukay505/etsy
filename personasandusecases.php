@@ -22,11 +22,10 @@
 
 		<!-- bootstrap add main class="container" at top or after header div -->
 		<main class="container">
-			<h1>Personas</h1>
 			<table class="table table-responsive table-striped">
 				<tr>
 					<td><span>Name</span></td>
-					<td>John Mierzwa, all mighty, all powerful, all knowing, all singing, all dancing, all deep dive coding.</td>
+					<td>Rebecca Herrera</td>
 				</tr>
 			</table>
 			<h2>Standard Seller Profile</h2>

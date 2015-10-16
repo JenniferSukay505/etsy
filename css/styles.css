@@ -28,68 +28,51 @@ section {
 strong {
 	font-size:1.5em;
 }
+li {
+	color:black;
+}
 
 i {
 	font-size:1.25em;
+	padding-left:1.5em;
+
 }
 .container {
 	color: black;
 	background-color:lightgray;
 }
-.content {
-	color: black;
-	text-align: right;
-}
-#registerList {
-	color:lightgray;
-}
+
 #persona {
 	color:black;
 	padding-left:1.5em;
 }
-#register {
-	color:lightgray;
-	padding-left:2em;
-}
-#age {
-	color:black;
-}
-#product {
-	color:black;
-}
-#productPrices {
-	color:black;
-}
-#head {
-	color:black;
-}
+
 #step1 {
 	color:black;
 	text-align: center;
 	font-size:1.5em;
 
 }
-#explore {
-	color:black;
-}
-#unregisteredUser {
-	background-color: darkslategray;
-}
-#thoughts {
-	color:lightsteelblue;
-	background-color:gray;
-}
-#furtherSteps {
+
+#signup {
 	background:palegreen;
-	background:linear-gradient(top,lightgreen,mediumspringgreen);
-	background:-moz-linear-gradient(top,springgreen,lawngreen);
-	background: -webkit-linear-gradient(top,limegreen,yellowgreen);
-	background: -ms-linear-gradient(top,seagreen,darkgreen);
+	background:linear-gradient(top,yellow,greenyellow);
+	background:-moz-linear-gradient(top,mediumvioletred,darkgoldenrod);
+	background: -webkit-linear-gradient(top,fuchsia,lawngreen);
+	background: -ms-linear-gradient(top,blanchedalmond,blue);
 }
 #exploreEtsy {
-	background-color:gray;
-	color:black;
+	background:linear-gradient(top,lightgoldenrodyellow,darkolivegreen);
+	background:-moz-linear-gradient(top,mediumpurple,olivedrab);
+	background:-webkit-linear-gradient(top,hotpink,lightsalmon);
+	background:-ms-linear-gradient(top,violetet,deeppink);
+}
 
+#furtherSteps{
+	background:linear-gradient(top,yellow,greenyellow);
+	background:-moz-linear-gradient(top,aquamarine,blue);
+	background:-webkit-linear-gradient(top,forestgreen,orangered);
+	background:-ms-linear-gradient(top,coral,yellow);
 }
 .lead {
 	font-size:3.5em;
@@ -101,7 +84,4 @@ i {
 	background:-moz-linear-gradient(top,#fb0,#f50);
 	background: -webkit-linear-gradient(top,#fb0,#f50);
 	background: -ms-linear-gradient(top,#fb0,#f50);
-}
-#exploreList {
-	background-color:darkgray;
 }
