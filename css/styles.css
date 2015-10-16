@@ -97,7 +97,7 @@ body { background:black; overflow:hidden; }
 	width:80px;
 	border-radius:50%;
 	position:absolute;
-	top:calc(50% - 40px);
+	top:calc(100% - 80px);
 	left:calc(80% - 40px);
 	box-shadow:
 	178px 0 0 -25px black,
