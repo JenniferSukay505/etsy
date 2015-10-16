@@ -21,31 +21,42 @@
 	<body>
 		<div class='orangegrad'><p class="lead">Etsy<br><span id="persona"><small>user Persona</small></span></div>
 		<main class="container">
-
-			<ul class="list-group">
-				<li class="list-group-item"><span>Name</span><strong>			Rebecca Herrera</strong></li>
-				<li class="list-group-item"><span>Personality</span>		Unique, individual, natural, hippy</li>
-				<li class="list-group-item"><span>Tech level</span>		Has a mac osx laptop that she uses for shopping
-					and social networking.  She appreciates high tech
-					and has a iphone 6 and saves for nice items. She
-					is competent in using websites and familiar with good quality flow.
-					She has no patience for older sites with improper
-					links.</li>
-				<li class="list-group-item"><span>City</span>					LA, where non-bulk, rare, beautiful, items are
-					appreciated.</li>
-				<li class="list-group-item"><span>Career</span>					Waitress and fashion student</li>
-				<li class="list-group-item"><span>Age</span>					38</li>
-				<li class="list-group-item"><span>Product</span>			Quality, one-of-a-kind clothing</span></li>
-				<li class="list-group-item"><span>Product Price</span> 	$160-240</li>
-				<li class="list-group-item"><span>Goals</span>
-					<ul>
-						<li class="list-group-item"><span>A </span>		Find out if etsy is worth her time to join as
-							a buyer and or seller.
-						<li class="list-group-item"><span>B </span> 		Gain a reputation for making quality goods and earn
-							as much money as possible</li>
-						<li class="list-group-item"><span>C </span> 		Find deals and high quality jewelry and clothing
-							on etsy and purchase</li>
-					</ul>
+			<main class="container">
+				<table class="table table-responsive table-striped">
+					<tr>
+						<td><span>Name</span></td>
+						<td class="lead">Rebecca Herrera</td>
+					<tr>
+						<td><span>Personality</span></td>
+						<td>Unique, individual, natural, hippy</td>
+					<tr>
+						<td><span>Tech level</span></td>
+						<td>Has a mac osx laptop that she uses for shopping and social networking.  Rebecca appreciates
+						high-tech and has an iphone 6.  She saves for nice items and does her homework in finding quality.
+						She is competent in using websites and is familiar with good quality flow.  She has no patience for
+						older sites with improper links. </td>
+					<tr>
+						<td><span>City</span></td>
+						<td>Los Angeles, where high quality and unique items are highly sought for.</td>
+					<tr>
+						<td><span>Career</span></td>
+						<td>Waitress and fashion student</td>
+					<tr>
+						<td><span>Age</span></td>
+						<td>38</td>
+					<tr>
+						<td><span>Product</span></td>
+						<td>Quality, "one-of-a-kind" clothing pieces and jewelry</td>
+					<tr>
+						<td><span>Product Price</span></td>
+						<td>$160-#240</td>
+					<tr>
+						<td><span>Goals</span></td>
+						<td>Find out if Etsy is worth taking the time to join and use.<br>
+						Gain a reputation for making quality goods and earn as much income as possible.<br>
+						Find deals on high quality products and purchase.</td>
+					</tr>
+				</table>
 					<div id="exploreEtsy">
 						<p class="lead"> Rebecca's thoughts</p>
 						<ol>
