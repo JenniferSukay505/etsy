@@ -42,9 +42,7 @@ i {
 	color: black;
 	background-color:lightgray;
 }
-#gifLarge {
 
-}
 #persona {
 	color:black;
 	padding-left:1.5em;
@@ -84,6 +82,7 @@ i {
 	background:-moz-linear-gradient(top,#fb0,#f50);
 	background: -webkit-linear-gradient(top,#fb0,#f50);
 	background: -ms-linear-gradient(top,#fb0,#f50);
+	z-index:1
 }
 .lead {
 	font-size:3.5em;
@@ -93,11 +92,11 @@ body { background:black; overflow:hidden; }
 #gif {
 	background:black;
 	padding:10px;
-	height:80px;
-	width:80px;
+	height:3px;
+	width:8px;
 	border-radius:50%;
 	position:fixed;
-	top:calc(100% - 80px);
+	top:calc(20% - 5px);
 	left:calc(80% - 40px);
 	box-shadow:
 	178px 0 0 -25px blueviolet,
@@ -111,6 +110,7 @@ body { background:black; overflow:hidden; }
 	-webkit-animation: rotate 3s linear infinite;
 	animation: rotate 3s linear infinite;
 }
+
 #gif:before {
 	content: " ";
 	position: fixed;
