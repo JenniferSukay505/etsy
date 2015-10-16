@@ -68,7 +68,7 @@ i {
 	background:linear-gradient(top,lightgoldenrodyellow,darkolivegreen);
 	background:-moz-linear-gradient(top,mediumpurple,olivedrab);
 	background:-webkit-linear-gradient(top,hotpink,lightsalmon);
-	background:-ms-linear-gradient(top,violetet,deeppink);
+	background:-ms-linear-gradient(top,violet,deeppink);
 }
 
 #signup{
@@ -103,7 +103,7 @@ body { background:black; overflow:hidden; }
 	178px 0 0 -25px blueviolet,
 	178px 0 0 -20px orange,
 	-178px 0 0 -25px deeppink,
-	-178px 0 0 -20px white,
+	-178px 0 0 -20px forestgreen,
 	0 0 0 20px orange,
 	0 0 0 30px deeppink,
 	0 0 0 130px orange,
@@ -120,7 +120,7 @@ body { background:black; overflow:hidden; }
 	top: -155px;
 	left: 20px;
 	background:black;
-	border: 5px solid white;
+	border: 5px deeppink;
 	box-shadow:
 	0 355px 0 -5px blueviolet,
 	0 355px 0 0px green;
@@ -129,7 +129,7 @@ body { background:black; overflow:hidden; }
 }
 #gif:after {
 	content: " ";
-	position: absolute;
+	position: fixed;
 	height:280px;
 	width:280px;
 	left:-90px;
@@ -145,10 +145,10 @@ body { background:black; overflow:hidden; }
 	10%, 15%, 35%, 40%, 60%, 65%, 85%, 90%  {
 		background: black;
 		box-shadow:
-		178px 0 0 -25px black,
-		178px 0 0 -20px white,
-		-178px 0 0 -25px black,
-		-178px 0 0 -20px white,
+		178px 0 0 -25px orange,
+		178px 0 0 -20px blueviolet,
+		-178px 0 0 -25px deeppink,
+		-178px 0 0 -20px forestgreen,
 		0 0 0 20px black,
 		0 0 0 30px white,
 		0 0 0 130px black,
@@ -159,8 +159,8 @@ body { background:black; overflow:hidden; }
 		box-shadow:
 		178px 0 0 -25px white,
 		178px 0 0 -20px white,
-		-178px 0 0 -25px white,
-		-178px 0 0 -20px white,
+		-178px 0 0 -25px black,
+		-178px 0 0 -20px orange,
 		0 0 0 20px black,
 		0 0 0 30px white,
 		0 0 0 130px black,
