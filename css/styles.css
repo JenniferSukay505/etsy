@@ -41,6 +41,7 @@ i {
 .container {
 	color: black;
 	background-color:lightgray;
+	text-align: left
 }
 
 #persona {
@@ -63,6 +64,7 @@ i {
 	background: -ms-linear-gradient(top,blanchedalmond,blue);
 }
 #exploreEtsy {
+	text-align:left
 	background:linear-gradient(top,lightgoldenrodyellow,darkolivegreen);
 	background:-moz-linear-gradient(top,mediumpurple,olivedrab);
 	background:-webkit-linear-gradient(top,hotpink,lightsalmon);

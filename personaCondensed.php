@@ -33,10 +33,11 @@
 						<td>Unique, individual, natural, hippy</td>
 					<tr>
 						<td><span>Tech level</span></td>
-						<td>Has a mac osx laptop that she uses for shopping and social networking.  Rebecca appreciates
-						high-tech and has an iphone 6.  She saves for nice items and does her homework in finding quality.
-						She is competent in using websites and is familiar with good quality flow.  She has no patience for
-						older sites with improper links. </td>
+						<td>Has a mac osx laptop that she uses for shopping and social networking.
+							Rebecca appreciates high-tech and has an iphone 6.  She saves for nice
+							items and does her homework in finding quality. She is competent in using
+							websites and is familiar with good quality flow. She has no patience for
+							older sites with improper links. </td>
 					<tr>
 						<td><span>City</span></td>
 						<td>Los Angeles, where high quality and unique items are highly sought for.</td>
@@ -55,8 +56,9 @@
 					<tr>
 						<td><span>Goals</span></td>
 						<td>Find out if Etsy is worth taking the time to join and use.<br>
-						Gain a reputation for making quality goods and earn as much income as possible.<br>
-						Find deals on high quality products and purchase.</td>
+						Gain a reputation for making quality goods <br>
+						Earn as much income as possible.<br>
+						Find deals on high quality products and purchase</td>
 					</tr>
 				</table>
 					<div id="exploreEtsy">
